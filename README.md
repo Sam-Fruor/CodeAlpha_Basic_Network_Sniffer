@@ -10,6 +10,9 @@ This project implements a simple network sniffer in Python using the Scapy libra
 - Displays source and destination IP addresses for each packet
 - Easy to run and customize
 
+##Code
+The full source code for this network sniffer is provided in the attached Network_Sniffer.txt file. You can find the implementation details there.
+
 ## Requirements
 
 - Python 3.x
